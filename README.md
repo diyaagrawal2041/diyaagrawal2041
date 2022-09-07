@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diyaagrawal2041
 - 👀 I’m interested in "Data Science".
 - 🌱 I’m currently learning Python and its libraries along with Data Science concepts.
-- 💞️ I’m looking to collaborate on any pthon project related to my field of interest or any other project providing me an opportunity to discover different fields.
+- 🤝 I’m looking to collaborate on any pthon project related to my field of interest or any other project providing me an opportunity to discover different fields.
 - 👩🏻‍💼 I'm looking for Data Analyics or Software Developer roles.
 - 📫 Reach me at- diyaag0420@gmail.com
